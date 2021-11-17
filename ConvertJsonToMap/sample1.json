@@ -1,0 +1,11 @@
+{
+    "name": "Rohit",
+    "id": "19MCMT46",
+    "age":25,
+    "address": {
+      "HNO":12,
+      "street":"C5",
+      "city":"Hyderabad",
+      "pinCode":500032
+    }
+  }

@@ -1,0 +1,46 @@
+ [
+  {
+    "name": "Rohit",
+    "id": "19MCMT46",
+    "age":25,
+    "address": {
+      "HNO":84,
+      "street":"CF4",
+      "city":"Hyderabad",
+      "pinCode":500036
+    }
+  },
+  {
+    "name": "Mohit",
+    "id": "19MCMB55",
+    "age": 28,
+    "address": {
+      "HNO":84,
+      "street":"CF4",
+      "city":"Hyderabad",
+      "pinCode":500036
+    }
+  },
+    {
+    "name": "Deepak",
+    "id": "19MCMB54",
+    "age": 23,
+    "address": {
+      "HNO":55,
+      "street":"D9",
+      "city":"Delhi",
+      "pinCode":400089
+    }
+  },
+  {
+    "name": "Ramesh",
+    "id": "19MCMB57",
+    "age": 30,
+    "address": {
+      "HNO":99,
+      "street":"F5",
+      "city":"Hyderabad",
+      "pinCode":500040
+    }
+  }
+]
